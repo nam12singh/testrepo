@@ -1,3 +1,7 @@
+# mac finder file
+.DS_Store
+
+
 # Object files
 *.o
 *.ko
